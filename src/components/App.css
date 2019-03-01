@@ -1,0 +1,62 @@
+.navv {
+  margin-right: 121px;
+  margin-left: 40px;
+}
+
+.nav1{
+  color:#00b39b;
+
+}
+ 
+.log  img{
+
+  margin-top: 3%;
+    
+    margin-left: 46%;
+    width: 5%;
+}
+
+.making{
+
+  margin-left: 19%;
+    margin-top: 6%;
+    color:#00b39b;
+}
+
+.dis{
+   margin-top:10%;
+  display :flex;
+  font-size: large;
+  color: #747474;
+}
+
+/* .cards{
+  display: flex;
+  margin-top:5%;
+  overflow: hidden;
+} */
+
+.card1{
+  overflow: hidden;
+
+background: #00ccb1;
+}
+
+.card2{
+  background: #3d83df;
+  overflow: hidden;
+}
+  .photo{
+  width:400px;
+  margin-left:25%
+}
+
+
+.back{
+
+  background-color:  #e5faf8;
+}
+.item{
+  background-color: white;
+}
+
